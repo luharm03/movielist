@@ -11,3 +11,16 @@
 .app-main-container {
   margin: 32px;
 }
+
+.mlogo{
+  width: 150px;
+}
+.my-card {
+  height: 350px;
+  width: 350px;
+  margin: 10px;
+  display: inline-flex;
+}
+.my-card-content {
+  padding: 15px,10px;
+}
